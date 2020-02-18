@@ -15,6 +15,15 @@ body{
  overflow: hidden;
 }
 
+/*Header**/
+header{
+background: steelblue;
+color: #ffffff;
+padding-top: 30px;
+min-height: 70px;
+border-bottom: #ffffff 3px solid;
+}
+
  
 
 
