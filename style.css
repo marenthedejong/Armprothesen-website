@@ -73,3 +73,13 @@ background-color: steelblue;
 text-align: center;
 color: #ffffff;
 }
+
+#showcase H1{
+ margin-top: 100px;
+ front-size: 55px;
+ margin-bottom: 10px;
+}
+ 
+#showcase p {
+ font-size: 20px;
+}
