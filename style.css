@@ -53,12 +53,16 @@ header #merk {
 header nav{
  float: right;
  margin-top: 10px;
+ margin-bottom: 20px; 
 }
 
 header .highlight, header .current a{
  color: lightsteelblue;
  font-weight: bold;
-}.
+}
  
-
+header a:hover{
+ color:black;
+ font-weight: bold;
+}
 
