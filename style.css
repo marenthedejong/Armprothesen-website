@@ -41,3 +41,22 @@ header li {
  display: inline;
  padding: 0 20px 0 20px;
 }
+
+header #merk {
+float: left;
+}
+ 
+header #merk {
+ margin: 0;
+}
+ 
+header nav{
+ float: right;
+ margin-top: 10px;
+}
+
+header .highlight, header .current a{
+ color: lightsteelblue;
+ font-weight: bold;
+}
+ 
