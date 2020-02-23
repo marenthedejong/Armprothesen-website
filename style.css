@@ -17,7 +17,7 @@ body{
 
 /*Header**/
 header{
-background: steelblue;
+background:  rgb(59, 103, 141);
 color: #ffffff;
 padding-top: 30px;
 min-height: 70px;
@@ -66,3 +66,10 @@ header a:hover{
  font-weight: bold;
 }
 
+/*showcase*/
+#showcase{
+min-height: 400px;
+background-color: steelblue; 
+text-align: center;
+color: #ffffff;
+}
