@@ -66,7 +66,7 @@ header a:hover{
  font-weight: bold;
 }
 
-/*showcase*/
+/*showcase**/
 #showcase{
 min-height: 400px;
 background-color: steelblue; 
@@ -83,3 +83,15 @@ color: #ffffff;
 #showcase p {
  font-size: 20px;
 }
+
+#nieuwsbrief {
+  text-align: center; 
+  color: #ffffff; 
+  background: rgb(59, 103, 141);  
+  padding: 20px; 
+}
+ 
+
+
+
+
