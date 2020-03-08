@@ -54,3 +54,8 @@ header li {
  padding: 0 20px 0 20px;
 }
 
+header nav{
+ float: right;
+ margin-top: 10px;
+ margin-bottom: 20px; 
+}
