@@ -16,3 +16,22 @@ padding-top: 30px;
 min-height: 70px;
 border-bottom: #ffffff 3px solid;
 }
+
+header .highlight, header .current a{
+ color: lightsteelblue;
+ font-weight: bold;
+}
+
+header #merk {
+float: left;
+}
+ 
+header #merk {
+ margin: 0;
+}
+
+.container{
+ width: 80%;
+ margin:auto;
+ overflow: hidden;
+}
