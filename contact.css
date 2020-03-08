@@ -59,3 +59,8 @@ header nav{
  margin-top: 10px;
  margin-bottom: 20px; 
 }
+
+header a:hover{
+ color:black;
+ font-weight: bold;
+}
