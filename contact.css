@@ -9,3 +9,10 @@ body{
  
 }
 
+header{
+background:  rgb(59, 103, 141);
+color: #ffffff;
+padding-top: 30px;
+min-height: 70px;
+border-bottom: #ffffff 3px solid;
+}
