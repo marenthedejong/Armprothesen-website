@@ -106,4 +106,23 @@ color: #ffffff;
  font-weight: bold;
 }
 
+#foto img, #foto2 img{
+ display: block;
+ max-width: 100%;
+ max-height: 100%;
+ margin-left: auto;
+ margin-right: auto;
+ hight: 10px;
+ width:200px;
+}
+ 
+#foto3 img{
+ display: block;
+ max-width: 100%;
+ max-height: 100%;
+ margin-left: auto;
+ margin-right: auto;
+ hight: 25px;
+ width:200px;
+}
 
