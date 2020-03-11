@@ -140,4 +140,15 @@ footer ul li {
    text-align: center;
  }
 
+footer {
+ width: 100%;
+ background: rgba(0, 0, 235, 0.664);
+ overflow: hidden;
+ border-radius: 0px 0px 15px 15px;
+}
+ 
+footer p,
+h2 {
+ color: #ffffff;
+}
 
