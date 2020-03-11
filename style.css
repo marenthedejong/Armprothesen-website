@@ -126,6 +126,18 @@ color: #ffffff;
  width:200px;
 }
 
+footer ul li {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ display: inline;
+}
 
+.ftekst {
+   width: 45%;
+   float: left;
+   margin: 2% 2%;
+   text-align: center;
+ }
 
 
