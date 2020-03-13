@@ -126,6 +126,10 @@ color: #ffffff;
  width:200px;
 }
 
+p{
+  font-size: 20px; 
+}
+
 footer ul li {
  list-style-type: none;
  margin: 0;
