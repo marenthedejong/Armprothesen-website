@@ -72,4 +72,17 @@ color: #ffffff;
 background-color: steelblue; 
 }
 
+#showcase2 H1{
+ margin-top: 100px;
+ front-size: 55px;
+ margin-bottom: 10px;
+}
+
+.tekst1{
+ width: 80%;
+ margin:auto;
+ overflow: hidden;
+ font-size: 18px; 
+}
+
 
