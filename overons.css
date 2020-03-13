@@ -65,3 +65,11 @@ header a:hover{
  font-weight: bold;
 }
 
+#showcase2{
+min-height: 300px;
+text-align: center;
+color: #ffffff;
+background-color: steelblue; 
+}
+
+
