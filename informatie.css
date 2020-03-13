@@ -8,3 +8,59 @@ body{
  text-align: center; 
  
 }
+
+header{
+background:  rgb(59, 103, 141);
+color: #ffffff;
+padding-top: 30px;
+min-height: 70px;
+border-bottom: #ffffff 3px solid;
+}
+
+header .highlight, header .current a{
+ color: lightsteelblue;
+ font-weight: bold;
+}
+
+header #merk {
+float: left;
+}
+ 
+header #merk {
+ margin: 0;
+}
+
+.container{
+ width: 80%;
+ margin:auto;
+ overflow: hidden;
+}
+
+header a{
+color: #ffffff;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 16px;
+}
+
+header ul{
+ margin: 0;
+ padding: 0;
+}
+
+header li {
+ float: left;
+ display: inline;
+ padding: 0 20px 0 20px;
+}
+
+header nav{
+ float: right;
+ margin-top: 10px;
+ margin-bottom: 20px; 
+}
+
+header a:hover{
+ color:black;
+ font-weight: bold;
+}
