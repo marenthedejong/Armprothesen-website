@@ -83,7 +83,7 @@ table{
   margin: auto;
   border-collapse: collapse;
 }
- 
+
 table, th, td{
  border: 2px solid white;
  font-size: 18px;
@@ -110,7 +110,7 @@ tr:nth-child(odd) {
 
 
 
- .page-nav ul {
+.page-nav ul {
    list-style-type: none;
    padding: 0;
    display: inline; 
