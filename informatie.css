@@ -99,6 +99,15 @@ th, td{
  padding: 10px;
 }
 
+tr:nth-child(even) {
+ background-color: #6f21ffdc ;
+ }
+ 
+tr:nth-child(odd) {
+ background-color: #360197dc;
+ }
+ 
+
 
 
  .page-nav ul {
