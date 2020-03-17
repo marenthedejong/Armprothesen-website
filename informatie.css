@@ -90,6 +90,15 @@ table, th, td{
  color: white;
 }
 
+th{
+ text-align: center;
+ background-color: #2a0372dc;
+}
+ 
+th, td{
+ padding: 10px;
+}
+
 
 
  .page-nav ul {
