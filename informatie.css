@@ -77,6 +77,20 @@ header a:hover{
  
  }
 
+table{
+  width: 450px;
+  border-spacing: 10px;
+  margin: auto;
+  border-collapse: collapse;
+}
+ 
+table, th, td{
+ border: 2px solid white;
+ font-size: 18px;
+ color: white;
+}
+
+
 
  .page-nav ul {
    list-style-type: none;
