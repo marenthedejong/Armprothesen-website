@@ -91,6 +91,20 @@ header a:hover{
     
    }
 
+.page-nav ul li:hover {
+      left: 4px;
+   
+    }
+     .page-nav a{
+       color: darkblue;
+       text-decoration: none;
+        font-size: 15px;
+     }
+       .page-nav h2{
+         font-size: 18px;
+         color: blue;
+       }
+
  
   
 
