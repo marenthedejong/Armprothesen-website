@@ -137,16 +137,8 @@ tr:nth-child(odd) {
          color: blue;
        }
 
+
  @media (max-width: 400px){
   .page-nav{
   display: none;
   }
- 
-
-
- 
-  
-
- 
-
- 
