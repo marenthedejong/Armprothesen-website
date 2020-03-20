@@ -78,3 +78,15 @@ input[type=text], select, textarea{
 textarea{
 height: 100px;
 }
+
+.knop_1{
+height: 35px;
+background: steelblue;
+border: none;
+color: #ffffff;
+font-weight: bold;
+display: block;
+margin: auto;
+margin-bottom: 20px;
+}
+
