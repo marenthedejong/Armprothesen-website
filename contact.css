@@ -77,6 +77,8 @@ input[type=text], select, textarea{
  
 textarea{
 height: 100px;
+font-family: arial; 
+font-size: 14px; 
 }
 
 .knop_1{
@@ -90,3 +92,38 @@ margin: auto;
 margin-bottom: 20px;
 }
 
+footer ul li {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ display: inline;
+}
+
+.ftekst {
+   width: 45%;
+   float: left;
+   margin: 2% 2%;
+   text-align: center;
+ }
+
+footer {
+ width: 100%;
+ background: rgba(0, 0, 235, 0.664);
+ overflow: hidden;
+}
+ 
+footer p,
+h2 {
+ color: #ffffff;
+}
+
+ul {
+ list-style-type: circle;
+ margin: 0;
+ padding: 0;
+ display: inline;
+}
+ 
+ul li img {
+ height: 50px;
+}
