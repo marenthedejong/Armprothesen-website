@@ -85,6 +85,16 @@ background-color: steelblue;
  font-size: 18px; 
 }
 
+.Marenthe, .Lana{
+width:80%; 
+margin: auto; 
+}
+
+
+h4{
+color: black 
+}
+
 p{
   font-size: 20px; 
 }
@@ -129,3 +139,7 @@ ul li img {
  ul li img {
  height: 40px ;
  }
+
+ 
+
+
