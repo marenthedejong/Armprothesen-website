@@ -161,8 +161,7 @@ footer {
  overflow: hidden;
 }
  
-footer p,
-h3 {
+footer p, h3 {
  color: #ffffff;
 }
 
@@ -177,12 +176,17 @@ ul li img {
  height: 50px;
 }
 
- @media (max-width: 400px){
-  .page-nav{
+@media (max-width: 400px){
+.page-nav{
   display: none;
   }
 
 @media (max-width: 400px){
  ul li img {
- height: 40px ;
+  height: 40px ;
+ }
+
+@media (max-width: 400px){
+ table {
+ width: 50% ;
  }
