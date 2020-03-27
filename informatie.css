@@ -139,6 +139,12 @@ h4{
   font-size: 30px; 
 }
 
+#foto img{
+height: 350px; 
+margin-bottom: 40px; 
+margin-top: auto; 
+}
+
 footer ul li {
  list-style-type: none;
  margin: 0;
