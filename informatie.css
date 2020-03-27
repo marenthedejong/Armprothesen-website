@@ -145,6 +145,10 @@ margin-bottom: 40px;
 margin-top: auto; 
 }
 
+#footerlogo img{
+height: 100px; 
+}
+
 footer ul li {
  list-style-type: none;
  margin: 0;
