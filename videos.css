@@ -69,6 +69,10 @@ p{
   font-size: 20px; 
 }
 
+h3{
+  font-size: 25px; 
+}
+
 .iframe-container{
   margin-bottom: 15px; 
 }
@@ -114,6 +118,16 @@ ul li img {
 }
 
 @media (max-width: 400px){
+h3{
+  font-size: 20px; 
+}
+
+@media (max-width: 400px){
+ p{
+  font-size: 15px; 
+}
+
+@media (max-width: 400px){
  ul li img {
  height: 40px ;
  }
@@ -140,4 +154,3 @@ ul li img {
  #footerlogo img {
  height: 80px ;
  }
- 
