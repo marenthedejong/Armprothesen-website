@@ -130,6 +130,10 @@ p{
   font-size: 20px; 
 }
 
+#footerlogo img{
+height: 100px; 
+}
+
 footer ul li {
  list-style-type: none;
  margin: 0;
@@ -160,6 +164,7 @@ ul {
  margin: 0;
  padding: 0;
  display: inline;
+ 
 }
  
 ul li img {
@@ -169,4 +174,9 @@ ul li img {
 @media (max-width: 400px){
  ul li img {
  height: 40px ;
+ }
+
+@media (max-width: 400px){
+ #footerlogo img {
+ height: 80px ;
  }
